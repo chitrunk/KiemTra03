@@ -1,0 +1,15 @@
+Viết chương trình Liệt kê các số Cực Trị trong mảng 1 chiều và vị trí của số đó. Số Cực Trị là số Lớn Hơn or Nhỏ hơn 2 số Lân Cận của nó. 
+yêu cầu: Viết 5 hàm: 
+-Nhapmang
+-xuatmang
+-hàm void LietKeCucTri(int a[], int n)       in ra các số và vị trí của số đó
+-Hàm KiemTraCucTri(int a,int b, int c) là hàm kiểm tra b có phải cực trị trong 3 số ko.
+ (Hàm LietKeCucTri gọi hàm KiemTraCucTri)
+-Main
+  Yêu cầu Nộp Bài: 
+    + Mỗi SV tạo 1 Branch tên : Mã Số Sinh Viên của mình, Source là nhánh main
+    + Upload 2 Hình vào Branch của mình: Hình code nếu nhiều thì 2,3 hình (có minh chứng bài của mình như tên file or Chú thích,...), 
+                                         Hình chạy chương trình Terminal (chạy được sẽ có tên máy mình ngồi)
+    Lưu ý: ko chạy được or có code ko chạy dc, ... cũng phải có file upload lên branch của mình để lấy 5đ upload
+           ai làm sai qui định upload như sai tên branch, upload sai, ko có upload gì,... sẽ bị trừ điểm nội dung 5đ phần GitHub
+Bài kiểm tra chia 2 nội dung: 5đ lập trình C, 5đ GitHub
